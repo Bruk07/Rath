@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: RATH
+message: >-
+  If you use this software, please cite it using the  
+  metadata from this file.
+type: software
+authors:
+  - website: 'https://kanaries.net/'
+    name: Kanaries Open Source Community
+repository-code: 'https://github.com/Kanaries/Rath'
+url: 'https://kanaries.net/rath'
+abstract: >-
+  An open-source Data Analysis and Visualization tools that
+  automates your Exploratory Data Analysis workflow with an
+  Augmented Analytic engine by discovering patterns,
+  insights, causals and presents those insights with
+  powerful auto-generated multi-dimensional data
+  visualization.
+keywords:
+  - Data Analysis
+  - Exploratory Data Analysis
+  - Data Visualization tools
+  - auto-generated multi-dimensional data visualization
+license: AGPL-3.0
